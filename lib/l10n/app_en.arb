@@ -1,0 +1,102 @@
+{
+  "@@locale": "en",
+  
+  "appName": "Pure Aqua",
+  "appTagline": "Premium Water Delivery Service",
+  
+  "welcome": "Welcome",
+  "phoneEnterMessage": "Enter your phone number to continue. We'll send you a verification code.",
+  "continueTxt": "Continue",
+  "termsMessage": "By continuing, you agree to our Terms of Service and Privacy Policy",
+  
+  "otpVerification": "OTP Verification",
+  "otpSentMessage": "We have sent a verification code to",
+  "resendCode": "Resend code",
+  "resendCodeIn": "Resend code in {seconds} seconds",
+  "@resendCodeIn": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "verify": "Verify",
+  
+  "completeProfile": "Complete Your Profile",
+  "almostThere": "Almost there!",
+  "profileDetails": "Please provide a few more details to complete your registration.",
+  "fullName": "Full Name",
+  "deliveryAddress": "Delivery Address",
+  "referralCode": "Referral Code (Optional)",
+  "referralCodeInfo": "Enter a referral code if you have one. You'll get your own code after registration.",
+  "completeRegistration": "Complete Registration",
+  
+  "hello": "Hello, {name}",
+  "@hello": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "orderQuestion": "What would you like to order today?",
+  "pureDrinkingWater": "Pure Drinking Water",
+  "fastDelivery": "Fast delivery to your doorstep",
+  "subscribeNow": "Subscribe Now",
+  "popularProducts": "Popular Products",
+  "recentOrders": "Recent Orders",
+  "viewAll": "View All",
+  "orderNow": "Order Now",
+  
+  "myOrders": "My Orders",
+  "all": "All",
+  "active": "Active",
+  "completed": "Completed",
+  "orderDetails": "Order Details",
+  "viewDetails": "View Details",
+  
+  "myProfile": "My Profile",
+  "editProfile": "Edit Profile",
+  "phoneNumber": "Phone Number",
+  "yourReferralCode": "Your Referral Code",
+  "myReferralCode": "My Referral Code",
+  "deliveryAddresses": "Delivery Addresses",
+  "paymentMethods": "Payment Methods",
+  "paymentMethodsSubtitle": "Add or manage payment methods",
+  "helpSupport": "Help & Support",
+  "helpSupportSubtitle": "Contact us, FAQs, terms",
+  "settings": "Settings",
+  "settingsSubtitle": "App preferences, notifications",
+  "logOut": "Log Out",
+  "logOutSubtitle": "Sign out from the app",
+  "save": "Save",
+  "cancel": "Cancel",
+
+  "myReferrals": "My Referrals",
+  "shareAndEarn": "Share & Earn",
+  "inviteFriends": "Invite friends to Pure Aqua and earn rewards",
+  "shareYourCode": "Share Your Code",
+  "referralStats": "Your Referral Stats",
+  "peopleInvited": "People Invited",
+  "pointsEarned": "Points Earned",
+  "referralHistory": "Referral History",
+  "noReferralsYet": "No referrals yet",
+  "shareCodeMessage": "Share your referral code with friends and earn rewards when they sign up!",
+  "referralBenefits": "Referral Benefits",
+  "joinedViaReferral": "Joined via your referral",
+  
+  "add": "Add",
+  "items": "Items",
+  "totalAmount": "Total Amount",
+  
+  "language": "Language",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "systemMode": "System Mode",
+  "english": "English",
+  "nepali": "नेपाली",
+  
+  "loading": "Loading...",
+  "errorOccurred": "An error occurred",
+  "noData": "No data found"
+}

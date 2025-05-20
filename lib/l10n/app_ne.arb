@@ -1,0 +1,102 @@
+{
+  "@@locale": "ne",
+  
+  "appName": "शुद्ध पानी",
+  "appTagline": "प्रिमियम पानी डेलिभरी सेवा",
+  
+  "welcome": "स्वागत छ",
+  "phoneEnterMessage": "जारी राख्न तपाईंको फोन नम्बर प्रविष्ट गर्नुहोस्। हामी तपाईंलाई एक प्रमाणीकरण कोड पठाउनेछौं।",
+  "continueTxt": "जारी राख्नुहोस्",
+  "termsMessage": "जारी राखेर, तपाईं हाम्रो सेवाका सर्तहरू र गोपनीयता नीतिसँग सहमत हुनुहुन्छ",
+  
+  "otpVerification": "OTP प्रमाणीकरण",
+  "otpSentMessage": "हामीले प्रमाणीकरण कोड पठाएका छौं",
+  "resendCode": "कोड पुन: पठाउनुहोस्",
+  "resendCodeIn": "{seconds} सेकेन्डमा कोड पुन: पठाउनुहोस्",
+  "@resendCodeIn": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "verify": "प्रमाणित गर्नुहोस्",
+  
+  "completeProfile": "आफ्नो प्रोफाइल पूरा गर्नुहोस्",
+  "almostThere": "लगभग त्यहाँ!",
+  "profileDetails": "कृपया तपाईंको दर्ता पूरा गर्न थप विवरणहरू प्रदान गर्नुहोस्।",
+  "fullName": "पूरा नाम",
+  "deliveryAddress": "डेलिभरी ठेगाना",
+  "referralCode": "रेफरल कोड (वैकल्पिक)",
+  "referralCodeInfo": "यदि तपाईंसँग छ भने रेफरल कोड प्रविष्ट गर्नुहोस्। दर्ता पछि तपाईंले आफ्नै कोड प्राप्त गर्नुहुनेछ।",
+  "completeRegistration": "दर्ता पूरा गर्नुहोस्",
+  
+  "hello": "नमस्ते, {name}",
+  "@hello": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "orderQuestion": "आज तपाईं के अर्डर गर्न चाहनुहुन्छ?",
+  "pureDrinkingWater": "शुद्ध पिउने पानी",
+  "fastDelivery": "तपाईंको ढोकासम्म छिटो डेलिभरी",
+  "subscribeNow": "अहिले सदस्यता लिनुहोस्",
+  "popularProducts": "लोकप्रिय उत्पादनहरू",
+  "recentOrders": "हालैका अर्डरहरू",
+  "viewAll": "सबै हेर्नुहोस्",
+  "orderNow": "अहिले अर्डर गर्नुहोस्",
+  
+  "myOrders": "मेरा अर्डरहरू",
+  "all": "सबै",
+  "active": "सक्रिय",
+  "completed": "पूरा भएको",
+  "orderDetails": "अर्डर विवरण",
+  "viewDetails": "विवरण हेर्नुहोस्",
+  
+  "myProfile": "मेरो प्रोफाइल",
+  "editProfile": "प्रोफाइल सम्पादन गर्नुहोस्",
+  "phoneNumber": "फोन नम्बर",
+  "yourReferralCode": "तपाईंको रेफरल कोड",
+  "myReferralCode": "मेरो रेफरल कोड",
+  "deliveryAddresses": "डेलिभरी ठेगानाहरू",
+  "paymentMethods": "भुक्तानी विधिहरू",
+  "paymentMethodsSubtitle": "भुक्तानी विधिहरू थप्नुहोस् वा प्रबन्ध गर्नुहोस्",
+  "helpSupport": "मद्दत र समर्थन",
+  "helpSupportSubtitle": "हामीलाई सम्पर्क गर्नुहोस्, सामान्य प्रश्नहरू, सर्तहरू",
+  "settings": "सेटिङहरू",
+  "settingsSubtitle": "एप प्राथमिकताहरू, सूचनाहरू",
+  "logOut": "लग आउट",
+  "logOutSubtitle": "एपबाट साइन आउट गर्नुहोस्",
+  "save": "बचत गर्नुहोस्",
+  "cancel": "रद्द गर्नुहोस्",
+
+  "myReferrals": "मेरा रेफरलहरू",
+  "shareAndEarn": "साझेदारी गर्नुहोस् र कमाउनुहोस्",
+  "inviteFriends": "साथीहरूलाई शुद्ध पानीमा आमन्त्रित गर्नुहोस् र पुरस्कारहरू कमाउनुहोस्",
+  "shareYourCode": "तपाईंको कोड साझा गर्नुहोस्",
+  "referralStats": "तपाईंको रेफरल तथ्याङ्कहरू",
+  "peopleInvited": "आमन्त्रित व्यक्तिहरू",
+  "pointsEarned": "अर्जित अंकहरू",
+  "referralHistory": "रेफरल इतिहास",
+  "noReferralsYet": "अहिलेसम्म रेफरलहरू छैनन्",
+  "shareCodeMessage": "साथीहरूसँग आफ्नो रेफरल कोड साझा गर्नुहोस् र उनीहरू साइन अप गर्दा पुरस्कारहरू कमाउनुहोस्!",
+  "referralBenefits": "रेफरल फाइदाहरू",
+  "joinedViaReferral": "तपाईंको रेफरल मार्फत सामेल भए",
+  
+  "add": "थप्नुहोस्",
+  "items": "वस्तुहरू",
+  "totalAmount": "कुल रकम",
+  
+  "language": "भाषा",
+  "darkMode": "डार्क मोड",
+  "lightMode": "लाइट मोड",
+  "systemMode": "सिस्टम मोड",
+  "english": "English",
+  "nepali": "नेपाली",
+  
+  "loading": "लोड हुँदैछ...",
+  "errorOccurred": "त्रुटि देखा पर्‍यो",
+  "noData": "कुनै डाटा फेला परेन"
+}
